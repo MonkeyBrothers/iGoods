@@ -46,7 +46,7 @@
 
     <!--=============================================配置service==================================-->
     <!-- 扫描包加载Service实现类 -->
-    <context:component-scan base-package="com.hry.ssm.service"></context:component-scan>
+    <context:component-scan base-package="com.hry.igoods.service"></context:component-scan>
 
     <!--=============================================配置transaction事物==================================-->
     <!-- 事务管理器 -->
